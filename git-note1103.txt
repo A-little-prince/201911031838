@@ -3,7 +3,10 @@ Git和其他版本控制系统比如SVN的一个不同之处就是有暂存盘�
 repositorys目录是工作区,隐藏文件夹.git才是版本库
 git版本库中存了很多东西,其中最重要的就是stage暂存区,还有git自动创建的master分支,以及指向master的一个指针叫HEAD
 
-SSH协议中使用git remote add origin命令行+仓库后面的链接例如(git@github.com:A-little-prince/201911031838.git)	再次使用命令行 git push -u origin master将本地文件上传到github中搞定
+
+SSH协议中使用git remote add origin命令行+仓库后面的链接例如(git@github.com:A-little-prince/201911031838.git)	再次使用命令行 git push -u origin master将本地文件上传到github中搞定	
+
+
 
 创建本地仓库时需要使用的命令行$($这个符号会自动生成)git init
 创建秘钥时使用的命令行
