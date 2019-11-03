@@ -1,0 +1,4 @@
+Git和其他版本控制系统比如SVN的一个不同之处就是有暂存盘的概念
+工作区就是电脑中能够看到的目录,repositorys文件夹就是一个工作区
+repositorys目录是工作区,隐藏文件夹.git才是版本库
+git版本库中存了很多东西,其中最重要的就是stage暂存区,还有git自动创建的master分支,以及指向master的一个指针叫HEAD
