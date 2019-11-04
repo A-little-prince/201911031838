@@ -11,3 +11,4 @@ git版本库中存了很多东西,其中最重要的就是stage暂存区,还有g
 创建本地仓库时需要使用的命令行$($这个符号会自动生成)git init
 创建秘钥时使用的命令行
 ssh-keygen -t rsa	回车两次之后会在administrator中的.ssh隐藏文件夹中创建一对秘钥,有后缀的是公钥,使用记事本打开,复制公钥到github中的setting中的ssh and GPG keys中 添加公钥进行连接
+迷之修改
